@@ -1,7 +1,11 @@
 import React from 'react';
 
 function Hero() {
-  return <div className="text-x-base text-x-cyan font-poppins">Hero Test</div>;
+  return (
+    <div>
+      <div className="text-4xl text-x-cyan">Hero Tests</div>
+    </div>
+  );
 }
 
 export default Hero;

@@ -15,7 +15,7 @@ module.exports = {
         'x-base': '18px',
       },
       fontFamily: {
-        poppins: ['Poppins', 'sans-serif'],
+        sans: ['Poppins', 'sans-serif'],
       },
     },
   },
