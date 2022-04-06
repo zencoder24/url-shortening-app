@@ -1,9 +1,11 @@
-import React from 'react'
+import React from 'react';
 
 function Hero() {
   return (
-    <div>Hero</div>
-  )
+    <div>
+      <div className="text-4xl text-x-cyan">Hero Tests</div>
+    </div>
+  );
 }
 
-export default Hero
+export default Hero;
