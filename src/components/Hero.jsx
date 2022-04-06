@@ -7,7 +7,7 @@ function Hero() {
     <section className="hero-feature">
       <div className="content text-center pt-4 pb-12">
         <div className="grid-right h-94">
-          <Illustration className="ml-6" />
+          <Illustration className="w-96 h-96"/>
         </div>
         <div className="grid-left px-1.5">
           <div className="title">
