@@ -9,7 +9,7 @@ module.exports = {
         'x-gray': '#bfbfbf',
         'x-gray-violet': '#9995a1',
         'x-dark-blue': '#333238',
-        'x-dark-violet': '#222124',
+        'x-very-dark-violet': '#222124',
       },
       fontSize: {
         'x-base': '18px',

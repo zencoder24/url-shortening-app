@@ -54,7 +54,7 @@ function Navbar() {
       </div>
 
       {/** Mobile Menu*/}
-      <div className="container text-white pl-6 pr-6 text-center ml-auto mr-auto left-0 right-0 w-11/12 rounded-lg absolute divide-y divide-slate-400 top-16 bg-red-500 md:hidden">
+      <div className="container text-white bg-x-dark-violet pl-6 pr-6 text-center ml-auto mr-auto left-0 right-0 w-11/12 rounded-lg absolute divide-y divide-slate-400 top-16  md:hidden">
           <div>
             <h1 className='p-4'>Features</h1>
             <h1 className='p-4'>Pricing</h1>
@@ -62,7 +62,7 @@ function Navbar() {
           </div>
           <div>
             <h1>Login</h1>
-            <button type="button" class="p-4 text-white bg-blue-700 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 font-medium rounded-full text-sm px-5 py-2.5 text-center  dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+            <button type="button" class="p-4 text-white bg-x-cyan  font-medium rounded-full text-sm px-5 py-2.5 text-center">
               Sign&#x2011;Up {/*<------- &#x2011; prevent line breaks used with hyphenated words  */}
             </button>
           </div>
