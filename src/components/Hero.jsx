@@ -20,7 +20,7 @@ function Hero() {
             links are preforming.
           </div>
           <div className="button my-6">
-            <button className="py-3 px-8 bg-x-cyan text-white font-medium rounded-full text-x-base cursor-pointer md:py-2 md:px-6 lg:py-3 lg:px-8">
+            <button className="py-3 px-8 bg-x-cyan text-white font-medium rounded-full text-x-base cursor-pointer md:py-2 md:px-6 lg:py-3 lg:px-8 hover:bg-cyan-300">
               Get Started
             </button>
           </div>
