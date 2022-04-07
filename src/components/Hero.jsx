@@ -23,8 +23,16 @@ function Hero() {
             Build your brand's recognition and get detailed insights on how your
             links are preforming.
           </div>
+<<<<<<< HEAD
             <button className="py-3 w-44 px-8 mr-auto ml-auto mt-6 bg-x-cyan text-white font-medium rounded-full text-x-base cursor-pointer  md:py-3 md:px-6 md:ml-0 md:-mr-0 lg:py-3 lg:px-8">
               Get Started</button>
+=======
+          <div className="button my-6">
+            <button className="py-3 px-8 bg-x-cyan text-white font-medium rounded-full text-x-base cursor-pointer md:py-2 md:px-6 lg:py-3 lg:px-8 hover:bg-cyan-300">
+              Get Started
+            </button>
+          </div>
+>>>>>>> 920b471224ee8d39e6a8c55f7aa5558d3853f0de
         </div>
       </section>
   );
