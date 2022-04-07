@@ -1,4 +1,3 @@
-
 import ExtraContent from './components/ExtraContent';
 import Footer from './components/Footer';
 import Hero from './components/Hero';
@@ -8,11 +7,11 @@ import SearchBar from './components/SearchBar';
 function App() {
   return (
     <>
-      <Navbar/>
-      <Hero/>
-      <SearchBar/>
-      <ExtraContent/>
-      <Footer/>
+      <Navbar />
+      <Hero />
+      <SearchBar />
+      <ExtraContent />
+      <Footer />
     </>
   );
 }
