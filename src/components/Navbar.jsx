@@ -23,7 +23,7 @@ function Navbar() {
 
       <div className="md:pr-32 hidden md:flex md:flex-row items-center ">
         <div className='p-4 cursor-pointer text-x-gray-violet font-bold hover:text-x-very-dark-violet'>Login</div> 
-        <button type="button" class="p-4 text-white font-bold bg-x-cyan hover:bg-cyan-300 rounded-full text-sm px-5 py-2.5 text-center">
+        <button type="button" className="p-4 text-white font-bold bg-x-cyan hover:bg-cyan-300 rounded-full text-sm px-5 py-2.5 text-center">
           Sign&#x2011;Up {/*<------- &#x2011; prevent line breaks used with hyphenated words  */}
         </button>
       </div>
@@ -45,7 +45,7 @@ function Navbar() {
           </div>
           <div className='pb-8'>
             <h1 className=' pt-8 cursor-pointer pb-8 font-bold'>Login</h1>
-            <button type="button" class="p-4 w-full  text-white font-bold bg-x-cyan rounded-full text-sm px-5 py-2.5 text-center">
+            <button type="button" className="p-4 w-full  text-white font-bold bg-x-cyan rounded-full text-sm px-5 py-2.5 text-center">
               Sign&#x2011;Up {/*<------- &#x2011; prevent line breaks used with hyphenated words  */}
             </button>
           </div>
