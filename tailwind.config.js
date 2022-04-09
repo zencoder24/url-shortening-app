@@ -17,6 +17,25 @@ module.exports = {
       fontFamily: {
         sans: ['Poppins', 'sans-serif'],
       },
+      backgroundImage: {
+        'hero-img': "url('/src/assets/images/illustration-working.svg')",
+      },
+      spacing: {
+        'x-98': '40rem',
+        'x-92': '32rem',
+      },
+      minHeight: {
+        0: '0',
+        '1/4': '25%',
+        '1/2': '50%',
+        '3/4': '75%',
+        full: '100%',
+      },
+      backgroundSize: {
+        'x-size': '773px',
+        'x-size-2': '650px',
+        'x-size-3': '900px',
+      },
     },
   },
   plugins: [],
