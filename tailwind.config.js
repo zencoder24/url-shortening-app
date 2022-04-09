@@ -23,7 +23,7 @@ module.exports = {
       spacing: {
         'x-98': '40rem',
         'x-92': '32rem',
-        'x-90': '26rem',
+        'x-90': '25.5rem',
       },
       backgroundSize: {
         'x-size': '620px',
