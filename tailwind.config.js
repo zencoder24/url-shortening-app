@@ -23,16 +23,10 @@ module.exports = {
       spacing: {
         'x-98': '40rem',
         'x-92': '32rem',
-      },
-      minHeight: {
-        0: '0',
-        '1/4': '25%',
-        '1/2': '50%',
-        '3/4': '75%',
-        full: '100%',
+        'x-90': '26rem',
       },
       backgroundSize: {
-        'x-size': '773px',
+        'x-size': '620px',
         'x-size-2': '650px',
         'x-size-3': '900px',
       },
