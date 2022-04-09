@@ -1,7 +1,5 @@
 import React from 'react';
 
-import {ReactComponent as Illustration} from '../assets/images/illustration-working.svg';
-
 function Hero() {
   return (
     <section className="content flex flex-col md:flex-row-reverse mt-6 md:items-center md:h-x-92 md:mt-8 md:ml-32 lg:mt-10 lg:h-x-98">
