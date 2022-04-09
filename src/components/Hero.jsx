@@ -10,7 +10,7 @@ function Hero() {
         </h1>
         <div className="sub-title text-center text-x-gray-violet font-medium text-x-base lg:text-2xl md:font-normal md:text-left md:w-5/6 xl:text-2xl lg:w-11/12">
           Build your brand's recognition and get detailed insights on how your
-          links are preforming.
+          links are performing.
         </div>
         <div className="button my-6 flex justify-center md:justify-start">
           <button className="py-4 px-12 bg-x-cyan text-white font-medium rounded-full text-x-base cursor-pointer md: text-1xl md:py-3 md:px-8 hover:bg-cyan-300 lg:py-4 xl:text-2xl xl:py-5 xl:px-10">
