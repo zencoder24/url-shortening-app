@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Note: 
+This is crutial, without this - positioning, spacing, and html/body margins are off. This prevents the horizontal scrolling that was happening on all view sizes. */
 html,
 body {
   overflow-x: hidden;
