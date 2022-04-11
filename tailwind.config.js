@@ -19,11 +19,15 @@ module.exports = {
       },
       backgroundImage: {
         'hero-img': "url('/src/assets/images/illustration-working.svg')",
+        'search-bg': "url('/src/assets/images/bg-shorten-desktop.svg')",
+        'search-mobile': "url('/src/assets/images/bg-shorten-mobile.svg')",
       },
       spacing: {
         'x-98': '40rem',
         'x-92': '32rem',
         'x-90': '25.5rem',
+        'x-5': '5%',
+        'x-6': '',
       },
       backgroundSize: {
         'x-size': '620px',
