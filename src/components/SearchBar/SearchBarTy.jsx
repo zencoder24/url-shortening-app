@@ -1,8 +1,8 @@
 import React from 'react';
 
-function SearchBar() {
+function SearchBarTy() {
   return (
-    <div className="bg-x-gray">
+    <div className="bg-x-gray mt-60">
       <div className="pb-10 relative h-32 flex justify-center">
         <div className="search-container bg-search-mobile bg-cover bg-x-dark-violet rounded-md absolute w-5/6  -mt-20 md:bg-search-bg md:w-10/12 lg:w-10/12 lg:mx-32 ">
           <div className="search-content w-full flex flex-col py-10 px-6 justify-center md:flex-row flex-wrap">
