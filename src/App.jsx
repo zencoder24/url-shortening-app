@@ -1,8 +1,8 @@
-import ExtraContent from './components/ExtraContent';
-import Footer from './components/Footer';
-import Hero from './components/Hero';
-import Navbar from './components/Navbar';
-import SearchBar from './components/SearchBar';
+import ExtraContent from './components/ExtraContent/ExtraContent';
+import Footer from './components/Footer/Footer';
+import Hero from './components/Hero/Hero';
+import Navbar from './components/Navbar/Navbar';
+import SearchBar from './components/SearchBar/SearchBar';
 
 function App() {
   return (
