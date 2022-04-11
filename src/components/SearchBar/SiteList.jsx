@@ -11,7 +11,7 @@ function SiteList({ sites }) {
           <p>{site.fullURL}</p> {/* <----- The Full URL */}
           <div>
             <p className="text-x-cyan">{site.shortenedURL}</p> {/** <--- The Shortened URl */}
-            <button onClick={() => { navigator.clipboard.writeText(site.shortened) }} className=" bg-x-cyan rounded w-16 text-white">Copied</button>
+            <button onClick={() => { navigator.clipboard.writeText(site.shortenedURL) }} className=" bg-x-cyan rounded w-16 text-white">Copied</button>
           </div>
         </div>
       )) :
