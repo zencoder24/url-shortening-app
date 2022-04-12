@@ -16,7 +16,7 @@ function ExtraContent() {
 
         <div className="cards-container lg:px-20">
           <div className="cards pt-24 py-16 px-12 md:flex">
-            <div className="bg-white text-center relative py-14 rounded-md md:w-full md:max-w-x-1 lg:h-5/6 xl:pb-20">
+            <div className="card-square bg-white text-center relative py-14 rounded-md md:w-full md:max-w-x-1 lg:h-5/6 xl:pb-20">
               <div className="icon-wrapper bg-x-dark-violet w-20 h-20 flex justify-center items-center rounded-full absolute ml-auto mr-auto left-0 right-0 -mt-24">
                 <div className="icon h-10 w-10 bg-brand-icon bg-contain"></div>
               </div>
@@ -31,8 +31,8 @@ function ExtraContent() {
                 </p>
               </div>
             </div>
-            <div className="h-24 w-2 bg-slate-500 m-auto md:h-2 md:w-1/5"></div>
-            <div className="bg-white text-center relative py-14 rounded-md md:max-w-x-1 xl:mt-6 xl:h-5/6">
+            <div className="h-24 w-2 bg-x-cyan m-auto md:h-2 md:w-1/5"></div>
+            <div className="card-square bg-white text-center relative py-14 rounded-md md:max-w-x-1 xl:mt-6 xl:h-5/6">
               <div className="icon-wrapper bg-x-dark-violet w-20 h-20 flex justify-center items-center rounded-full absolute ml-auto mr-auto left-0 right-0 -mt-24">
                 <div className="icon h-10 w-10 bg-detailed-icon bg-contain"></div>
               </div>
@@ -47,8 +47,8 @@ function ExtraContent() {
                 </p>
               </div>
             </div>
-            <div className="h-24 w-2 bg-slate-500 m-auto md:h-2 md:w-1/5"></div>
-            <div className="bg-white text-center relative py-14 rounded-md md:max-w-x-1 xl:mt-12 lg:pb-24">
+            <div className="h-24 w-2 bg-x-cyan m-auto md:h-2 md:w-1/5"></div>
+            <div className="card-square bg-white text-center relative py-14 rounded-md md:max-w-x-1 xl:mt-12 lg:pb-24">
               <div className="icon-wrapper bg-x-dark-violet w-20 h-20 flex justify-center items-center rounded-full absolute ml-auto mr-auto left-0 right-0 -mt-24">
                 <div className="icon h-10 w-10 bg-customize-icon bg-contain"></div>
               </div>

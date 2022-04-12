@@ -43,6 +43,9 @@ module.exports = {
       maxWidth: {
         'x-1': '26rem',
       },
+      flex: {
+        'x-auto': '1 0 auto',
+      },
     },
   },
   plugins: [],
