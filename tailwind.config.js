@@ -32,7 +32,9 @@ module.exports = {
         'x-98': '40rem',
         'x-92': '32rem',
         'x-90': '25.5rem',
+        'x-24': '6.2rem',
         'x-5': '5%',
+        'x-10': '5%',
         'x-125': '125%',
       },
       backgroundSize: {
