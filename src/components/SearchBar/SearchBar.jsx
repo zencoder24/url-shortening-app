@@ -27,6 +27,7 @@ function SearchBar() {
         }])
       })
   })
+
   //Checks to see if there are Site Objects stored in Local storage. If so, add them to the sites array.
   useEffect(() => {
     const sitesData = JSON.parse(localStorage.getItem("websites"))

@@ -6,7 +6,7 @@ module.exports = {
         'x-cyan': '#2CD0CF',
         'x-dark-violet': '#353042',
         'x-red': '#ab1616',
-        'x-gray': '#bfbfbf',
+        'x-gray': '#f2f2f2',
         'x-gray-violet': '#9995a1',
         'x-dark-blue': '#333238',
         'x-very-dark-violet': '#222124',
