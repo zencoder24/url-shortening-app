@@ -32,7 +32,7 @@ function ExtraContent() {
               </div>
             </div>
             <div className="h-24 w-2 bg-slate-500 m-auto md:h-2 md:w-1/5"></div>
-            <div className="bg-white text-center relative py-14 rounded-md md:max-w-x-1 xl:mt-8 xl:h-5/6">
+            <div className="bg-white text-center relative py-14 rounded-md md:max-w-x-1 xl:mt-6 xl:h-5/6">
               <div className="icon-wrapper bg-x-dark-violet w-20 h-20 flex justify-center items-center rounded-full absolute ml-auto mr-auto left-0 right-0 -mt-24">
                 <div className="icon h-10 w-10 bg-detailed-icon bg-contain"></div>
               </div>
