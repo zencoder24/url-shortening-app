@@ -14,7 +14,7 @@ function ExtraContent() {
           </p>
         </div>
 
-        <div className="cards-container">
+        <div className="cards-container px-20">
           <div className="cards pt-24 py-16 px-12 md:flex">
             <div className="bg-white text-center relative py-14 rounded-md md:w-full md:max-w-x-1 lg:h-5/6 xl:pb-20">
               <div className="icon-wrapper bg-x-dark-violet w-20 h-20 flex justify-center items-center rounded-full absolute ml-auto mr-auto left-0 right-0 -mt-24">
