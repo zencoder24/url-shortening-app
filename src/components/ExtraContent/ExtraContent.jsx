@@ -14,13 +14,13 @@ function ExtraContent() {
           </p>
         </div>
 
-        <div className="cards-container md:px-20">
+        <div className="cards-container lg:px-20">
           <div className="cards pt-24 py-16 px-12 md:flex">
             <div className="bg-white text-center relative py-14 rounded-md md:w-full md:max-w-x-1 lg:h-5/6 xl:pb-20">
               <div className="icon-wrapper bg-x-dark-violet w-20 h-20 flex justify-center items-center rounded-full absolute ml-auto mr-auto left-0 right-0 -mt-24">
                 <div className="icon h-10 w-10 bg-brand-icon bg-contain"></div>
               </div>
-              <div className="text px-8">
+              <div className="text md:px-8">
                 <h2 className="font-bold text-2xl text-x-dark-violet pt-2 pb-4 md:text-3xl">
                   Brand Recognition
                 </h2>
