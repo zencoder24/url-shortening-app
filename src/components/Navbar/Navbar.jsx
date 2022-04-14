@@ -1,5 +1,5 @@
-import React, {useState} from 'react';
-import {ReactComponent as BrandLogo} from '../../assets/images/logo.svg';
+import React, { useState } from 'react';
+import { ReactComponent as BrandLogo } from '../../assets/images/logo.svg';
 // import brandLogo from '../assets/images/logo.svg' <--- Importing as an Image makes the SVG non-scalable
 
 function Navbar() {
@@ -44,8 +44,7 @@ function Navbar() {
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
-          className="h-6 w-6"
-          fill="none"
+          className="h-6 w-6 fill-x-gray"
           viewBox="0 0 24 24"
           stroke="currentColor"
           strokeWidth={2}
@@ -60,9 +59,8 @@ function Navbar() {
 
       {/** Mobile Menu*/}
       <div
-        className={`${
-          navMenuShown ? 'block' : 'hidden'
-        } container text-white bg-x-dark-violet pl-6 pr-6 text-center ml-auto mr-auto left-0 right-0 w-11/12 rounded-lg absolute divide-y divide-slate-400 top-20  md:hidden`}
+        className={`${navMenuShown ? 'block' : 'hidden'
+          } container text-white bg-x-dark-violet pl-6 pr-6 text-center ml-auto mr-auto left-0 right-0 w-11/12 rounded-lg absolute divide-y divide-slate-400 top-20  md:hidden`}
       >
         <div className="pt-8">
           <h1 className="pb-8 cursor-pointer font-bold">Features</h1>
