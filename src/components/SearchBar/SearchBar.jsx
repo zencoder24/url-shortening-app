@@ -26,6 +26,8 @@ function SearchBar() {
           shortenedURL: data.result.short_link
         }])
       })
+
+
   })
 
   //Checks to see if there are Site Objects stored in Local storage. If so, add them to the sites array.

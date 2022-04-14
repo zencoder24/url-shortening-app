@@ -7,6 +7,7 @@ module.exports = {
         'x-dark-violet': '#353042',
         'x-red': '#ab1616',
         'x-gray': '#f2f2f2',
+        'x-medium-gray': '#bfbfbf',
         'x-gray-violet': '#9995a1',
         'x-dark-blue': '#333238',
         'x-very-dark-violet': '#222124',
