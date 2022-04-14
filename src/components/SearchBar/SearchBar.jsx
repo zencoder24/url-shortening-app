@@ -56,7 +56,7 @@ function SearchBar() {
   };
 
   return (
-    <section className="bg-x-gray mt-60">
+    <section className="bg-x-gray mt-50">
       <div className="pb-10 relative h-32 flex justify-center">
         <div
           className={` ${

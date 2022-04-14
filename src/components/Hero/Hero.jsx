@@ -2,7 +2,7 @@ import React from 'react';
 
 function Hero() {
   return (
-    <section className="content flex flex-col md:flex-row-reverse mt-6 md:items-center md:h-x-92 md:mt-8 md:ml-32 lg:mt-10 lg:h-x-98">
+    <section className="content flex flex-col md:flex-row-reverse mt-6 md:items-center md:h-x-92 md:mt-8 md:ml-32 lg:mt-10 lg:h-x-98 mb-36">
       <div className="bg-hero-img bg-x-size h-x-90 bg-no-repeat ml-6 xs:bg-left sm:bg-center md:bg-left md:h-full w-full md:ml-0 md:bg-x-size-2 lg:bg-x-size-3 "></div>
       <div className="flex flex-col justify-center px-5 mt-6 md:px-0 lg:w-full md:mt-0 ">
         <h1 className="text-5xl text-center font-bold text-x-dark-blue mb-4 lg:text-6xl md:text-left md:mb-2 xl:text-7xl">
