@@ -70,7 +70,7 @@ function ExtraContent() {
               <h2 className="text-4xl font-semibold text-x-gray pb-10 lg:text-5xl">
                 Boost your links today
               </h2>
-              <button className="py-5 px-12 bg-x-cyan text-white  rounded-full text-xl font-semibold cursor-pointer hover:bg-cyan-300 xl:text-2xl xl:py-5 xl:px-10">
+              <button className="py-5 px-12 bg-x-cyan text-white  rounded-full text-xl font-semibold cursor-pointer hover:bg-cyan-300 xl:text-xl">
                 Get Started
               </button>
             </div>
