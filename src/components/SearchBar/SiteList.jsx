@@ -2,7 +2,7 @@ import React from 'react'
 
 function SiteList({ sites }) {
   return (
-    <ul className="flex flex-col align-middle">
+    <ul className="flex flex-col-reverse align-middle">
       {/** If there are sites in the sites Array, map through them.
        * If not, just return a empty <div>
        */}
