@@ -15,16 +15,16 @@ function ExtraContent() {
         </div>
 
         <div className="cards-container lg:px-x-10 xl:px-32">
-          <div className="cards pt-24 py-16 px-8 lg:px-0 md:flex">
-            <div className="card-square bg-white text-center relative py-14 rounded-md xl:max-w-x-1 2xl:pb-20 2xl:h-5/6">
+          <div className="cards pt-24 md:pt-16 py-16 px-8 lg:px-0 md:flex">
+            <div className="card-square bg-white text-center relative py-14 rounded-md xl:max-w-x-1 xl:pb-14 xl:h-4/6">
               <div className="icon-wrapper bg-x-dark-violet w-20 h-20 flex justify-center items-center rounded-full absolute ml-auto mr-auto left-0 right-0 -mt-x-24 xl:ml-8">
                 <div className="icon h-10 w-10 bg-brand-icon bg-contain"></div>
               </div>
               <div className="text px-8">
-                <h2 className="font-bold text-2xl text-x-dark-violet pt-2 pb-4 md:text-3xl">
+                <h2 className="font-bold text-2xl text-x-dark-violet pt-2 pb-4 md:text-2xl">
                   Brand Recognition
                 </h2>
-                <p className="text-x-gray-violet text-x-base md:text-lg lg:text-xl">
+                <p className="text-x-gray-violet text-x-base md:text-lg">
                   Boost your brand recognition with each click. Generic links
                   don't mean a thing. Branded links help instil confidence in
                   your content.
@@ -32,15 +32,15 @@ function ExtraContent() {
               </div>
             </div>
             <div className="h-24 w-2 bg-x-cyan m-auto md:h-2 md:w-1/5"></div>
-            <div className="card-square bg-white text-center relative py-14 rounded-md xl:max-w-x-1 2xl:pb-14 2xl:h-4/6 2xl:mt-6">
+            <div className="card-square bg-white text-center relative py-14 rounded-md xl:max-w-x-1 xl:pb-14 xl:h-4/6 xl:mt-6">
               <div className="icon-wrapper bg-x-dark-violet w-20 h-20 flex justify-center items-center rounded-full absolute ml-auto mr-auto left-0 right-0 -mt-x-24 xl:ml-8">
                 <div className="icon h-10 w-10 bg-detailed-icon bg-contain"></div>
               </div>
               <div className="text px-8">
-                <h2 className="font-bold text-2xl text-x-dark-violet pt-2 pb-4 md:text-3xl">
+                <h2 className="font-bold text-2xl text-x-dark-violet pt-2 pb-4 md:text-2xl">
                   Detailed Records
                 </h2>
-                <p className="text-x-gray-violet text-x-base md:text-lg lg:text-xl">
+                <p className="text-x-gray-violet text-x-base md:text-lg">
                   Gain insights into who is clicking your links. Knowing when
                   and where people engage with your content helps inform better
                   decisions.
@@ -48,15 +48,15 @@ function ExtraContent() {
               </div>
             </div>
             <div className="h-24 w-2 bg-x-cyan m-auto md:h-2 md:w-1/5"></div>
-            <div className="card-square bg-white text-center relative py-14 rounded-md xl:max-w-x-1 2xl:pb-24 2xl:h-4/6 2xl:mt-14">
+            <div className="card-square bg-white text-center relative py-14 rounded-md xl:max-w-x-1 2xl:pb-24 xl:h-4/6 xl:mt-12">
               <div className="icon-wrapper bg-x-dark-violet w-20 h-20 flex justify-center items-center rounded-full absolute ml-auto mr-auto left-0 right-0 -mt-x-24 xl:ml-8">
                 <div className="icon h-10 w-10 bg-customize-icon bg-contain"></div>
               </div>
               <div className="text px-8">
-                <h2 className="font-bold text-2xl text-x-dark-violet pt-2 pb-4 md:text-3xl">
+                <h2 className="font-bold text-2xl text-x-dark-violet pt-2 pb-4 md:text-2xl">
                   Fully Customizable
                 </h2>
-                <p className="text-x-gray-violet text-x-base md:text-lg lg:text-xl">
+                <p className="text-x-gray-violet text-x-base md:text-lg">
                   Improve brand awareness and content discoverability through
                   customizable links, supercharging audience engagement.
                 </p>
