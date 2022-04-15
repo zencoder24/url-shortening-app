@@ -63,11 +63,9 @@ I also got more experience using the useEffect react state hook.
 
 ```js
  useEffect(() => {
-    const sitesData = JSON.parse(localStorage.getItem('websites'));
-    if (sitesData) {
-      setSites(sitesData);
-    }
-  }, []);
+    if (sites.length !== 0)
+      localStorage.setItem('websites', JSON.stringify(sites));
+  }, [sites]);
 ```
 
 
