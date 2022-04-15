@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { getShortenedURL } from '../../api';
 import SiteList from './SiteList';
 
-function SearchBar() {
+function SearchBar({ button }) {
   //sites that holds all of the Site Objects and its setter
   const [sites, setSites] = useState([]);
   //The url value passed in the field and its setter
