@@ -8,7 +8,7 @@ function ExtraContent() {
           <h2 className="text-4xl font-semibold text-x-dark-blue py-4 pt-12 md:text-5xl">
             Advanced Statistics
           </h2>
-          <p className="text-x-gray-violet text-x-base md:text-xl xl:text-2xl md:m-auto md:w-4/5 lg:w-3/5 xl:w-2/5">
+          <p className="text-x-gray-violet text-x-base pb-6 md:text-xl md:m-auto md:w-4/5 lg:w-3/5">
             Track how your links are performing accross the web with our
             advanced statistics dashboard.
           </p>
